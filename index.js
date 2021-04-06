@@ -21,7 +21,7 @@ for (let i = 0; i < facts.length; i++){
 return array
 }
 
-let i = 0
+
 function iLoveTheBeatles(number) {
   let arr = [];
 
@@ -29,5 +29,5 @@ function iLoveTheBeatles(number) {
    arr.push(`I love the Beatles!`);
    number++
  } while (iLoveTheBeatles() < 15);
-return arr
+return array;
  }
