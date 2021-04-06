@@ -24,8 +24,11 @@ return array
 let i = 0
 function iLoveTheBeatles(number) {
   let arr = [];
-}
+
  do {
-   console.log(`I love the Beatles!`);
+   arr.push(`I love the Beatles!`);
    number++
  } while (iLoveTheBeatles() < 15);
+return arr
+ }
+ iLoveTheBeatles(16);
