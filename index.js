@@ -10,7 +10,7 @@ return array
 }
 
 
-let facts = ["While on tour, he enjoyed playing Monopoly", 
+let facts = ["While on tour, he enjoyed playing Monopoly",
  "Harmonica was the first instrument Lennon learned to play"];
 
 function johnLennonFacts(facts) {
