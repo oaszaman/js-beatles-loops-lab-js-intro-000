@@ -14,7 +14,7 @@ const facts = ["While on tour, he enjoyed playing Monopoly",
  "Harmonica was the first instrument Lennon learned to play"];
 
 function johnLennonFacts(facts) {
-const array[];
+const array = [];
 for (let i = 0; i < facts.length; i++){
   array.push(facts[i] + '!!!');
 }
