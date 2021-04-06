@@ -23,8 +23,7 @@ return array
 
 let i = 0
 function iLoveTheBeatles(number) {
-i = i + 1;
-return i;
+  let arr = [];
 }
  do {
    console.log(`I love the Beatles!`);
