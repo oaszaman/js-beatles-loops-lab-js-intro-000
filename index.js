@@ -21,6 +21,11 @@ for (let i = 0; i < facts.length; i++){
 return array
 }
 
+let i = 0
 function iLoveTheBeatles() {
-
+i = i + 1;
+return i;
 }
+ do {
+   console.log(`I love the Beatles!`);
+ } while (iLoveTheBeatles() < 8);
