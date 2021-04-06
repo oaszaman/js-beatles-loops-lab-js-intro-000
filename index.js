@@ -22,10 +22,10 @@ return array
 }
 
 let i = 0
-function iLoveTheBeatles() {
+function iLoveTheBeatles(number) {
 i = i + 1;
 return i;
 }
  do {
    console.log(`I love the Beatles!`);
- } while (iLoveTheBeatles() < 8);
+ } while (iLoveTheBeatles() < 15);
