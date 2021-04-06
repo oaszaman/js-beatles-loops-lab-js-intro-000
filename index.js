@@ -23,7 +23,7 @@ return array
 
 
 function iLoveTheBeatles(number) {
-  let arr = [];
+  let array = [];
 
  do {
    arr.push(`I love the Beatles!`);
